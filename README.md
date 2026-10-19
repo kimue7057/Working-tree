@@ -7,6 +7,9 @@ Open this folder as a local project in Codex to continue development. The source
 repository and Git history live here. Google Drive server synchronization is
 managed by Drive for desktop and is independent of local save verification.
 
+GitHub repository: <https://github.com/kimue7057/Working-tree>
+(`origin`, default development branch `main`).
+
 A personal, Korean-first work planner that combines project to-dos, task deadlines,
 multiple work-time blocks, calendar events, AI-assisted capture, and a morning Daily
 Briefing in one workspace.

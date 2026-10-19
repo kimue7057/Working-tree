@@ -4,7 +4,8 @@ The canonical development repository is:
 `G:\내 드라이브\경영\창업\2026_이루티\2026_프로젝트\to_do`.
 
 This is a standalone local repository, relocated from the ChatGPT project mirror.
-Use this directory for all further development. GitHub is not connected yet.
+Use this directory for all further development.
+GitHub remote: `https://github.com/kimue7057/Working-tree` (`origin`, branch `main`).
 If `sources/` is added later, treat synced reference material there as read-only.
 
 
