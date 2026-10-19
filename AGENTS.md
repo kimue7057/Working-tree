@@ -1,10 +1,11 @@
-# ChatGPT project context
+# AI Work Planner — project location
 
-This directory is a local mirror of the ChatGPT project “업무관리 시스템”.
+The canonical development repository is:
+`G:\내 드라이브\경영\창업\2026_이루티\2026_프로젝트\to_do`.
 
-- Treat every file under `sources/` as read-only reference material.
-- Do not edit, rename, move, or delete synced project files.
-- These files may be replaced the next time a task is created from this ChatGPT project.
+This is a standalone local repository, relocated from the ChatGPT project mirror.
+Use this directory for all further development. GitHub is not connected yet.
+If `sources/` is added later, treat synced reference material there as read-only.
 
 
 ## Project instructions

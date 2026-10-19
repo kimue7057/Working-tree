@@ -1,2 +1,6 @@
 allowBuilds:
   unrs-resolver: true
+
+# Use files instead of pnpm's default symlink layout on Google Drive virtual disks.
+nodeLinker: hoisted
+packageImportMethod: copy

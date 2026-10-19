@@ -1,5 +1,12 @@
 # AI Work Planner
 
+Canonical project folder:
+`G:\내 드라이브\경영\창업\2026_이루티\2026_프로젝트\to_do`
+
+Open this folder as a local project in Codex to continue development. The source
+repository and Git history live here. Google Drive server synchronization is
+managed by Drive for desktop and is independent of local save verification.
+
 A personal, Korean-first work planner that combines project to-dos, task deadlines,
 multiple work-time blocks, calendar events, AI-assisted capture, and a morning Daily
 Briefing in one workspace.
