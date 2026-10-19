@@ -24,3 +24,12 @@ Codex 앱에서 기존 폴더를 프로젝트로 추가할 때 위 `to_do` 폴�
 ChatGPT 프로젝트 폴더의 `AGENTS.md`에도 새 개발 위치를 기록했다.
 
 GitHub 원격 저장소는 아직 연결하지 않았다.
+
+## 이전 후 검증
+
+- 새 경로에서 `pnpm install --frozen-lockfile --force` 완료.
+- 새 경로에서 `pnpm lint`, `pnpm typecheck`, `pnpm build` 모두 통과.
+- 기존 작업 폴더의 코드·Git·생성 캐시는 다음 복구용 로컬 백업으로 이동:
+  `C:\Users\user\.codex\.relocation-backups\ai-work-planner-20261019`.
+- 기존 ChatGPT 작업 폴더에는 새 경로를 안내하는 `AGENTS.md`와 읽기 전용
+  `sources/`만 남긴다.
